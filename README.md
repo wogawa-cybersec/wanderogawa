@@ -39,7 +39,7 @@ Dedicated hardware tuned for high-performance Linux environments and virtualizat
 
 ## 🛠️ Development & Automation Stack
 * **Core:** Advanced Bash Scripting for system hardening and automation.
-* **Research & Development:** Python, Rust (Forensics focus), and C++.
+* **Research & Development:** Python, Rust, and C++.
 
 ---
 
