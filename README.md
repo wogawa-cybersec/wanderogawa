@@ -6,7 +6,7 @@
 ---
 
 ## 🏛️ Technical Journey & Core Philosophy
-* **Early Foundations:** Started in the Windows ME era, building deep theoretical knowledge through legacy manuals (MS-DOS 6.x, 16-bit BASIC). This "manual-first" learning approach established a strong conceptual base in low-level systems.
+* **Early Foundations:** Started in the Windows ME era, building deep theoretical knowledge through legacy manuals (MS-DOS 6.x, COBOL, BASIC). This "manual-first" learning approach established a strong conceptual base in low-level systems.
 * **Formal Development:** Professionalized through Hardware Engineering (2006) and Web Design/C++ programming (2008).
 * **Resilience & Adaptation:** Proven ability to manage legacy environments and transition them into modern, secure infrastructures (KVM, Docker, AI-Intelligence).
 
